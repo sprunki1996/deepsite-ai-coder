@@ -5,7 +5,7 @@
 
 > Create fully functional applications and games with just a text prompt - no coding experience required.
 
-## 🚀 [Try DeepSite AI Coder Now](https://deepsite.ai)
+## 🚀 [Try DeepSite AI Coder Now](https://deep-aicoder.site/)
 
 ![DeepSite AI Coder Demo](https://deep-aicoder.site/3.png)
 
